@@ -1,5 +1,5 @@
-# testingGoogleApiWithNodeApp
-Connect to a google sheet document using Nodejs and Google Sheet API with Service Account
+# Conecteaza-te la Google Sheets API folosind o aplicatie Nodejs si un Service Account creat in Google Cloud Project.
+
 Cerinta: Sa se preia informatii dintr-un document google sheet privat, folosind javascript si Google Sheets API.
 
 Google pune la dispozitia dezvoltatorului librarii pe partea de client prin care browserele pot accesa Google Sheets API.
