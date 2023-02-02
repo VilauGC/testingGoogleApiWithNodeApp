@@ -43,4 +43,4 @@ Trebuie sa downloadezi de la tine din google cloud credentialele Service Account
 
 Pentru a porni aplicatia trebuie sa rulezi comanda npm start.
 
-Nu uita sa copiezi propriul tau google sheet document id si sa il inlocuiesti pe al meu in fisierul routes.js la linia 17 spreadshit: '<id-ul tau>'
+Nu uita sa copiezi propriul tau google sheet document id si sa il inlocuiesti pe al meu in fisierul routes.js la linia 17 spreadsheetId: '<id-ul tau>'
