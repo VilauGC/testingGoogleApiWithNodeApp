@@ -40,3 +40,7 @@ Nodejs instalat in sistemul local
 Dupa ce clonezi aplicatia la tine in calculator trebuie sa rulezi npm install pentru a instala dependintele
 
 Trebuie sa downloadezi de la tine din google cloud credentialele Service Accountului tau sub forma unui fisier json pe care sa il pui in folderul routes al aplicatiei curente.
+
+Pentru a porni aplicatia trebuie sa rulezi comanda npm start.
+
+Nu uita sa copiezi propriul tau google sheet document id si sa il inlocuiesti pe al meu in fisierul routes.js la linia 17 spreadshit: '<id-ul tau>'
