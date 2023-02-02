@@ -31,7 +31,8 @@ Din Google Cloud -> APIs Services -> Credentials -> CREATE CREDENTIALS -> Help m
 
 Acum trebuie sa mergem in google drive la documentul google sheet pe care vrem sa-l accesam si sa adaugam adresa de email a service account-ului proaspat creat la colaboratori: 
 Deschid documentul si in dreapta sus click pe Share -> Adaug email-ul in primul camp si aleg Cititor si salvez. 
-Totodata trebuie sa downloadam credentialele service_accountului ca un fisier json. Pe care il vom folosi in aplicatia noastra Nodejs.
+Totodata trebuie sa downloadam credentialele service_accountului ca un fisier json. pe care il vom folosi in aplicatia noastra Nodejs.
+
 Acum trebuie sa construim o aplicatie Nodejs care sa acceseze google sheets api cu ajutorul unui pachet predefinit numit googleapis. Vezi codul pe github: https://github.com/VilauGC/testingGoogleApiWithNodeApp.git
 
 
