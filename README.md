@@ -36,7 +36,7 @@ Acum trebuie sa construim o aplicatie Nodejs care sa acceseze google sheets api 
 
 # Pentru a rula aplicatia ai nevoie de urm:
 Nodejs instalat in sistemul local
+
 Dupa ce clonezi aplicatia la tine in calculator trebuie sa rulezi npm install pentru a instala dependintele
+
 Trebuie sa downloadezi de la tine din google cloud credentialele Service Accountului tau sub forma unui fisier json pe care sa il pui in folderul routes al aplicatiei curente.
-
-
