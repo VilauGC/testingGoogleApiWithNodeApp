@@ -1,0 +1,5 @@
+# Node
+/node_modules
+
+# Service account credentials
+/routes/service_account.json
